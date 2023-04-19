@@ -15,7 +15,7 @@ namespace Lista1ex3
             Double e;
             Double n2;
             Double raiz = 1.41;
-            Console.WriteLine("Coloque o valor do Diametro:");
+            Console.WriteLine("Coloque o valor do Diagonal:");
             n1 = Double.Parse(Console.ReadLine());
             e = n1 / raiz;
             soma = n1 / raiz;
